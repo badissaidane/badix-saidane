@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("https://slidescorner.com/wp-content/uploads/2023/01/03-Bitcoin-Ether-and-Famous-Cryptocurrency-Coins-Flying-Free-PPT-Background-by-SlidesCorner.com_-1024x576.jpg");
+    background-size: cover;
+    margin-top: 5cm;
+  }
+  
+  header {
+    text-align: center;
+    color: blue;
+    margin-top: 50px;
+  }
+  
+  .main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30cm;
+  }
+  
+  .converter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  input {
+    margin: 10px;
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    background-color: white;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 8px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+  }
